@@ -37,3 +37,5 @@ wc stands for word count. As the name implies, it is mainly used for counting pu
 ```
 
 tree
+
+wget curl
