@@ -41,3 +41,9 @@ tree
 wget curl
 
 cut
+
+test
+
+```
+check file types and compare values
+```
