@@ -47,3 +47,14 @@ test
 ```
 check file types and compare values
 ```
+
+declare typeset 
+
+```
+declare [-aAfFgilrtux] [-p] [name[=value] ...]
+typeset [-aAfFgilrtux] [-p] [name[=value] ...]
+    -a     Each name is an indexed array variable (see Arrays above).
+    -A     Each name is an associative array variable (see Arrays above).
+    ...
+    -x     Mark names for export to subsequent commands via the environment.
+```
