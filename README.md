@@ -10,6 +10,10 @@ samba
 
 rz sz
 
+tree
+
+pwd pwdx 
+
 jq 
 
 ```
@@ -35,8 +39,6 @@ wc
 ```
 wc stands for word count. As the name implies, it is mainly used for counting purpose.
 ```
-
-tree
 
 wget curl
 
