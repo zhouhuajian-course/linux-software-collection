@@ -1,6 +1,10 @@
 # Linux Software Collection
 
-cp scp rsync
+watch
+
+df fdisk du lsblk mkfs.ext4 pvcreate pvdisplay lvextend lvs xfs_growfs blkid
+
+cp scp rsync 
 
 sed awk 
 
